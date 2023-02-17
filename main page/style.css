@@ -1,0 +1,22 @@
+.main-page{
+    background-color: black;
+}
+
+.proj-1{
+    background-color: green;
+    position: fixed;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+
+
+.proj-2{
+    background-color: red;
+    position: fixed;
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+
